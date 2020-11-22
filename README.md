@@ -26,7 +26,7 @@ class Stack:
         return json.dumps(asdict(self), indent=4)
 
 
-stack = Stack())
+stack = Stack()
 print(stack.serialize())
 ​
 ```
