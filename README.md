@@ -18,7 +18,7 @@ class Stack:
     forensics : tuple = ("AccessData (FTK) Imager", "AccessData (PRTK)", "AccessData Registry Viewer", "iPhone-backup-analyzer")
     sniffing & spoofing : tuple = ("Wireshark", "Bettercap", "SET", "Burp Suite", "Wifi Honey")
     password : tuple = ("John the Ripper", "Johnny", "Hydra", "Wordlists", "Ophcrack")
-    operating systems : tuple = ("Kali linux", "Mac", "Windows")
+    operating systems : tuple = ("Kali Linux", "Mac", "Windows")
     
 
     def serialize(self):
