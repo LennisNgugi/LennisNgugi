@@ -12,7 +12,6 @@ from dataclasses import asdict, dataclass
 class Stack:
     languages   : tuple = ("Python", "Bash", "HTML/CSS", "SQL", "Swift", "C#")
     databases   : tuple = ("SQL Server 2017", "PostgreSQL", "Mongo")
-    misc        : tuple = ("Docker", "Celery")
     ongoing     : tuple = ("Django", "GraphQL", "JavaScript", "Rest APIs", "Soap APIs")
     reconnaissance  : tuple = ("Nmap", "Netdiscover", "Aircrack-ng", "Shodan", "Metasploit Framework")
     reverse engineering : tuple = ("Ghidra")
