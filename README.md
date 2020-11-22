@@ -14,10 +14,10 @@ class Stack:
     databases   : tuple = ("SQL Server 2017", "PostgreSQL", "Mongo")
     misc        : tuple = ("Docker", "Celery")
     ongoing     : tuple = ("Django", "GraphQL", "JavaScript", "Rest APIs", "Soap APIs")
-    reconnaissance  : tuple = ("Nmap", "Netdiscover", "Aircrack-ng", "SET", "Shodan", "Metasploit Framework")
+    reconnaissance  : tuple = ("Nmap", "Netdiscover", "Aircrack-ng", "Shodan", "Metasploit Framework")
     reverse engineering : tuple = ("Ghidra")
     forensics : tuple = ("AccessData (FTK) Imager", "AccessData (PRTK)", "AccessData Registry Viewer", "iPhone-backup-analyzer")
-    sniffing & spoofing : tuple = ("Wireshark", "Bettercap", "Burp Suite", "Wifi Honey")
+    sniffing & spoofing : tuple = ("Wireshark", "Bettercap", "SET", "Burp Suite", "Wifi Honey")
     password : tuple = ("John the Ripper", "Johnny", "Hydra", "Wordlists", "Ophcrack")
     operating systems : tuple = ("Kali linux", "Mac", "Windows")
     
