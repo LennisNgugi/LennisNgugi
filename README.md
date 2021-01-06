@@ -26,7 +26,7 @@ class Stack:
 
 
 stack = Stack()
-print(stack.serialize()))
+print(stack.serialize())
 ​
 ```
 </h3>
