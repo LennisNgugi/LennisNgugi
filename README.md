@@ -16,7 +16,7 @@ class Stack:
     reconnaissance  : tuple = ("Nmap", "Netdiscover", "Aircrack-ng", "Shodan", "Metasploit Framework")
     reverse engineering : tuple = ("Ghidra")
     forensics : tuple = ("AccessData (FTK) Imager", "AccessData (PRTK)", "AccessData Registry Viewer", "iPhone-backup-analyzer")
-    sniffing and spoofing : tuple = ("Wireshark", "Bettercap", "SET", "Burp Suite", "Wifi Honey")
+    sniffing spoofing : tuple = ("Wireshark", "Bettercap", "SET", "Burp Suite", "Wifi Honey")
     password : tuple = ("John the Ripper", "Johnny", "Hydra", "Wordlists", "Ophcrack")
     operating systems : tuple = ("Kali Linux", "Mac", "Windows")
     
